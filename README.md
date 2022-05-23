@@ -1,6 +1,5 @@
 ## Olá ! Meu nome é Marcelo Camilli.
 
-- 👩‍💻 Desenvolvedor web em formação
 - 🌱 HTML, CSS, Javascript, ReactJs e PHP
 
 <div align="center">
