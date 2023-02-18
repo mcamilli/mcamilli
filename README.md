@@ -1,5 +1,3 @@
-## Olá ! Meu nome é Marcelo Camilli.
-
 - 🌱 HTML, CSS, Javascript, ReactJs, PHP and R.
 
 <div align="center">
