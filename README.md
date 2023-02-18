@@ -1,6 +1,6 @@
 ## Olá ! Meu nome é Marcelo Camilli.
 
-- 🌱 HTML, CSS, Javascript, ReactJs e PHP
+- 🌱 HTML, CSS, Javascript, ReactJs, PHP and R.
 
 <div align="center">
   <a href="https://github.com/mcamilli">
