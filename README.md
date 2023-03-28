@@ -1,4 +1,6 @@
-- 🌱 
+#  Biologist 
+- Coding for fun and sometimes to make my research easier
+
 
 <div align="center">
   <a href="https://github.com/mcamilli">
