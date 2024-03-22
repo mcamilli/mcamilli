@@ -1,5 +1,5 @@
 #  Biologist 
-- Coding for fun and sometimes to make my research easier
+- Coding for fun and to make my research easier
 
 
 <div align="center">
